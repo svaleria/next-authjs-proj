@@ -22,7 +22,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your-username/next-authjs-proj.git`
+1. Clone the repository: `git clone https://github.com/svaleria/next-authjs-proj.git`
 2. Install dependencies: 
 
 ```bash
