@@ -1,5 +1,5 @@
 import { NextRequest } from "next/server"
-import authConfig from "./auth.config"
+import authConfig from "@/auth.config"
 import NextAuth from "next-auth"
 // import { auth } from "./auth"
 
